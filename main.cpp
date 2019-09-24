@@ -21,5 +21,7 @@ int main()
 
   //tell fortune
 
+        cout<<"you lucky number is "<<firstName.length()<<"."<<endl;
+
   return 0;
 }
