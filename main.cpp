@@ -30,11 +30,11 @@ int main()
         if (firstName.at(0) == 'a' || firstName.at(0) == 'e' || firstName.at(0) == 'i' || firstName.at(0) == 'o' || firstName.at(0) == 'u' || firstName.at(0) == 'A' || firstName.at(0) == 'E' || firstName.at(0) == 'I' || firstName.at(0) == 'O' || firstName.at(0) == 'U')
 
         {   
-            cout<<"you should keep a low profile."<<endl;
+            cout<<"you are destined to be famous!"<<endl;
         }
         else
         {
-            cout<<"you are destined to be famous!"<<endl;
+            cout<<"you should keep a low profile."<<endl;
         }
       
         if (lastName.at(lastName.length()-1) == 'a' || lastName.at(lastName.length()-1) =='e' || lastName.at(lastName.length()-1) == 'i' || lastName.at(lastName.length()-1) =='o' ||lastName.at(lastName.length()-1) == 'u' || lastName.at(lastName.length()-1) == 'A' || lastName.at(lastName.length()-1) == 'E' || lastName.at(lastName.length()-1) == 'I' || lastName.at(lastName.length()-1) == 'O' || lastName.at(lastName.length()-1) == 'U')
